@@ -3,7 +3,7 @@
 
 ```
  ／ヽ＿／ヽ
-（　●　●　）  こんにちは ♡
+（　●　●　）
  ＞　 ♡  ＜
 ```
 
@@ -12,19 +12,6 @@
 *she/her · builder of small things · lover of cozy interfaces*
 
 </div>
-
----
-
-```dart
-class Lemonochka {
-  final String mood     = "( ˘͈ ᵕ ˘͈  )";
-  final String focus    = "making things that just work";
-  final List   stack    = ["Flutter", "Dart", "Windows"];
-  final bool   coffeeDependent = true;
-}
-```
-
----
 
 <div align="center">
 
