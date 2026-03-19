@@ -1,16 +1,42 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**Lemonochka/Lemonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ ／ヽ＿／ヽ
+（　●　●　）  こんにちは ♡
+ ＞　 ♡  ＜
+```
 
-Here are some ideas to get you started:
+### hi, i'm lemonka ˚ʚ♡ɞ˚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*she/her · builder of small things · lover of cozy interfaces*
+
+</div>
+
+---
+
+```dart
+class Lemonochka {
+  final String mood     = "( ˘͈ ᵕ ˘͈  )";
+  final String focus    = "making things that just work";
+  final List   stack    = ["Flutter", "Dart", "Windows"];
+  final bool   coffeeDependent = true;
+}
+```
+
+---
+
+<div align="center">
+
+**things i make** ✦
+
+[**keqdis**](https://github.com/Lemonochka/keqdis) — a little vpn client for windows ♡  
+`Flutter` `Xray` `sing-box`
+
+---
+
+✦ [kequinq.art](https://kequinq.art) ✦
+
+*thanks for stopping by ˙ᵕ˙*
+
+</div>
