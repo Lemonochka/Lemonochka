@@ -16,7 +16,7 @@
 
 **things i make** ✦
 
-[**keqdis**](https://github.com/Lemonochka/keqdis) — a little vpn client for windows ♡  
+[**keqdis**](https://github.com/Lemonochka/keqdis) — a little vpn client for windows and android ♡  
 `Flutter` `Xray` `sing-box`
 
 ---
