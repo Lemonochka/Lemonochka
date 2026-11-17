@@ -1,28 +1,9 @@
-<div align="center">
+### Hi, I'm Lemonka
 
-```
- ／ヽ＿／ヽ
-（　●　●　）
- ＞　 ♡  ＜
-```
+I like small, carefully made things and interfaces that feel good to use.
 
-### hi, i'm lemonka ˚ʚ♡ɞ˚
+I make [keqdroid](https://github.com/Lemonochka/keqdroid), an open-source proxy and VPN client built on Xray-core and mihomo.
 
-*she/her · builder of small things · lover of cozy interfaces*
+https://github.com/user-attachments/assets/e1f899dd-4f2c-4ca2-896c-1da64a3a5645
 
-</div>
-
-<div align="center">
-
-**things i make** ✦
-
-[**keqdis/Keqdroid**](https://github.com/Lemonochka/keqdroid) — a little cross-platform vpn client for windows and android ♡  
-`Flutter` `Xray` `sing-box`
-
----
-
-✦ [kequinq.art](https://kequinq.art) ✦
-
-*thanks for stopping by ˙ᵕ˙*
-
-</div>
+[Download](https://github.com/Lemonochka/keqdroid/releases) · [Documentation](https://kequinq.art/docs/keqdroid/en/) · [Telegram](https://t.me/keqdroid) · [kequinq.art](https://kequinq.art)
